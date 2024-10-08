@@ -1,0 +1,11 @@
+{
+    "name": "my-saas-app",
+    "version": "1.0.0",
+    "main": "server.js",
+    "dependencies": {
+        "axios": "",
+        "dotenv": "",
+        "express": "",
+        "greenlock-express": "^4.0.3"
+    }
+}
